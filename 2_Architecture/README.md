@@ -2,6 +2,8 @@
 # Low level flowchart
 ## State flowchart
 ![State flowchart](https://github.com/R-Shyamala/M1_LibraryManagment/blob/main/2_Architecture/state.png)
+## Sequence flowchart
+![Sequence flowchart](https://github.com/R-Shyamala/M1_LibraryManagment/blob/main/2_Architecture/sequence.jpg)
 # STRUCTURAL FLOWCHART
 # High level flowchart
 ## Use case flowchart
