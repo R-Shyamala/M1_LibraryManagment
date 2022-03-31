@@ -46,14 +46,16 @@
 5. How:
 * This project is implemented to do the book issuing, retunrn, or renewal purpose by entering the student or faculty id as input.
 # High level requirements
-|RID  |	DESCRIPTION |	STATUS      |
-|HLR1 |	C LANGUAGE  |	IMPLEMENTED |
-|HLR2 |	OS WINDOWS	| IMPLEMENTED |
-|HLR3 |	OS LINUX	  | IMPLEMENTED |
-|HLR4 |	HARDDISK	  | IMPLEMENTED |
-|HLR5 |	RAM 4GB	    | IMPLEMENTED |
+| RID	 | DESCRIPTION | STATUS       |
+| ---- | ----------- | ------------ |
+| HLR1 | C LANGUAGE  | IMPLEMENTED  |
+| HLR2 | OS WINDOWS	 | IMPLEMENTED  |
+| HLR3 | OS LINUX	   | IMPLEMENTED  |
+| HLR4 | HARDDISK	   | IMPLEMENTED  |
+| HLR5 | RAM 4GB	   | IMPLEMENTED  |
 # Low level requirements
 |RID  |	DESCRIPTION	| STATUS     |
+------|-------------|------------|
 |LLR1	| ADD BOOKS 	| IMPLEMENTED|
 |LLR2 |	DELETE BOOKS| IMPLEMENTED|
 |LLR3	| SEARCH BOOKS|	IMPLEMENTED|
